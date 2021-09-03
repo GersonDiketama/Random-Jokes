@@ -1,0 +1,43 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main
+{
+    text-align: center;
+    margin-top: 200px;
+}
+
+button
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+
+.display
+
+{
+    margin-top: 60px;
+    width: 500px;
+  
+    margin: auto;
+}
+
+.text
+{
+    font-size: 60px;
+   
+}
+
+.emoji
+{
+    font-size: 4em;
+}
